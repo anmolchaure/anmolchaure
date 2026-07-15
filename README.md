@@ -14,10 +14,12 @@ models. I've also taught Machine Learning, Deep Learning and
 Advanced Analytics with Python at university level.
 
 🎓 MSc Environmental Sciences, CULS Prague — graduating mid-2027;
+
 💼 Open to part-time data analytics work in Prague (~20 hrs/week);
 
 ### Tools I use
 **Daily:** Python (pandas, scikit-learn, PyTorch, xarray) · R (dlnm, mgcv) · Linux · Git· LaTeX
+
 **Learning:** Power BI · advanced SQL
 
 
@@ -39,7 +41,7 @@ Advanced Analytics with Python at university level.
   [10.64898/2026.06.02.729631](https://doi.org/10.64898/2026.06.02.729631)
 
 ### Elsewhere
-chaurea@fzp.czu.cz
+chaurea@fzp.czu.cz·
 [Google Scholar](https://scholar.google.com/citations?user=JfBcKMkAAAAJ) ·
 [ORCID](https://orcid.org/0009-0001-1707-8694) ·
 [LinkedIn](https://www.linkedin.com/in/anmol-chaure) ·
